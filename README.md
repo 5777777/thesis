@@ -1,4 +1,4 @@
-# Color Correction for Drone Images
+# Color Correction for Drone Images via a Unified Two-Level Triangle Type-Guided Energy Minimization Approach
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Color Correction for Drone Images via a Unified Two-Level Triangle Type-Guided Energy Minimization Approach (2026) by Kuo-Liang Chung and Wu-Chi Chen.
