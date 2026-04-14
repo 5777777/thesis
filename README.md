@@ -22,9 +22,11 @@ git clone [https://github.com/5777777/thesis.git](https://github.com/5777777/the
 
 ## Testing enviroment
 * Windows 11 / Visual Studio
-* ISO C++ 14
+* ISO C++ 17
 
 ## Contact
-If you have any questions, please email us via
-Wu-Chi Chen: 06maxchen01@gmail.com
+If you have any questions, please email us via<br>
+Wu-Chi Chen: 06maxchen01@gmail.com<br>
 Kuo-Liang Chung: klchung01@gmail.com
+
+
