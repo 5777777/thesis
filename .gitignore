@@ -1,0 +1,17 @@
+# Visual Studio 本機端目錄與暫存檔 (體積通常很大)
+.vs/
+*.vcxproj.user
+
+# 編譯輸出的資料夾與執行檔
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.pch
+
+# 日誌檔或其他不必要的暫存
+*.log

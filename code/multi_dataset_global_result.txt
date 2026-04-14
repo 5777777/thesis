@@ -1,0 +1,42 @@
+Starting multi-dataset processing...
+Total datasets to process: 30
+
+=================================================
+FINAL PROCESSING SUMMARY
+=================================================
+Total datasets processed: 30
+Successful datasets: 30
+Failed datasets: 0
+Total processing time: 1406.72 seconds (23.4453 minutes)
+
+Successfully processed datasets:
+  - D:/FloodNet_dataset_d/1/
+  - D:/FloodNet_dataset_d/2/
+  - D:/FloodNet_dataset_d/3/
+  - D:/FloodNet_dataset_d/4/
+  - D:/FloodNet_dataset_d/5/
+  - D:/FloodNet_dataset_d/6/
+  - D:/FloodNet_dataset_d/7/
+  - D:/FloodNet_dataset_d/8/
+  - D:/FloodNet_dataset_d/9/
+  - D:/FloodNet_dataset_d/10/
+  - D:/FloodNet_dataset_d/11/
+  - D:/FloodNet_dataset_d/12/
+  - D:/FloodNet_dataset_d/13/
+  - D:/FloodNet_dataset_d/14/
+  - D:/FloodNet_dataset_d/15/
+  - D:/FloodNet_dataset_d/16/
+  - D:/FloodNet_dataset_d/17/
+  - D:/FloodNet_dataset_d/18/
+  - D:/FloodNet_dataset_d/19/
+  - D:/FloodNet_dataset_d/20/
+  - D:/FloodNet_dataset_d/21/
+  - D:/FloodNet_dataset_d/22/
+  - D:/FloodNet_dataset_d/23/
+  - D:/FloodNet_dataset_d/24/
+  - D:/FloodNet_dataset_d/25/
+  - D:/FloodNet_dataset_d/26/
+  - D:/FloodNet_dataset_d/27/
+  - D:/FloodNet_dataset_d/28/
+  - D:/FloodNet_dataset_d/29/
+  - D:/FloodNet_dataset_d/30/
